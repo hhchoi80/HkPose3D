@@ -1,7 +1,7 @@
 # Project Guide
 
 ## Demo Video
-[![Video](https://img.youtube.com/vi/7HRfl6EmGzI0.jpg)](https://www.youtube.com/watch?v=7HRfl6EmGzI&autoplay=1)
+[![Video](https://img.youtube.com/vi/7HRfl6EmGzI/0.jpg)](https://www.youtube.com/watch?v=7HRfl6EmGzI&autoplay=1)
 
 
 ## Architecture
