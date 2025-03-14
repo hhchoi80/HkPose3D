@@ -4,7 +4,6 @@
 
 ![Project Architecture](./images/structure.png)
 
-- `HkPose3D/`: Root directory of the project.
 - `HKPose3D_Unity/`: Captures images from cameras in the Unity virtual environment (Unity project files).
 - `HkPose3D_Client/`: Client operation code (.NET6 project, JavaScript files).
 - `HkPose3D_Device/`: Edge device source code (Python scripts, `.pt` model files, etc.).
@@ -13,8 +12,8 @@
 ---
 
 ## Execution Environment and Order
-- **Tested on Windows 11**.
-- Extract `HkPose3D.zip` and execute each project in the following order:
+- **Tested on Windows**.
+- Execute each project in the following order:
   1. **HkPose3D_Server**
   2. **HkPose3D_Device**
   3. **HkPose3D_Unity**
