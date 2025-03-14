@@ -1,7 +1,9 @@
 # Project Guide
 
 ## Demo Video
-[![Demo Video](https://img.youtube.com/vi/7HRfl6EmGzI/0.jpg)](https://youtu.be/7HRfl6EmGzI)
+![Demo Video](https://img.youtube.com/vi/7HRfl6EmGzI/0.jpg)](https://youtu.be/7HRfl6EmGzI)
+![Demo Video](./images/HkPose3D_Demo.gif)
+
 
 ---
 
