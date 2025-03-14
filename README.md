@@ -1,13 +1,6 @@
-# HkPose3D Project Usage Guide
-
-**Date:** March 14, 2025  
-**Author:** Hyunho Choi, Hankyong National University  
-**Contact:** hhchoi@hknu.ac.kr  
+# HkPose3D Project Guide
 
 ## Project Structure
-For detailed explanations, refer to Section 2.2 "Software Structure" in the completion report within the `doc` folder.
-
-### Project File Structure
 
 ![Project Architecture](./images/structure.png)
 
@@ -16,11 +9,20 @@ For detailed explanations, refer to Section 2.2 "Software Structure" in the comp
 - `HkPose3D_Client/`: Client operation code (.NET6 project, JavaScript files).
 - `HkPose3D_Device/`: Edge device source code (Python scripts, `.pt` model files, etc.).
 - `HkPose3D_Server/`: Edge server source code (Python scripts, etc.).
-- `doc/`: Project presentation materials and completion report (**Read before execution**).
 
 ---
 
-## HKPose3D_Unity Project Guide
+## Execution Environment and Order
+- **Tested on Windows 11**.
+- Extract `HkPose3D.zip` and execute each project in the following order:
+  1. **HkPose3D_Server**
+  2. **HkPose3D_Device**
+  3. **HkPose3D_Unity**
+  4. **HkPose3D_Client**
+
+---
+
+## 1. HKPose3D_Unity  
 
 ### How to Run HkPose3D_Unity
 1. Install Unity (Version 2022.3.22f1 LTS) and add the project.
@@ -63,7 +65,7 @@ Set the following parameters in `ThirdPersonController.cs`:
 
 ---
 
-## HkPose3D_Device Project Guide
+## 2. HkPose3D_Device  
 
 ### File Descriptions
 - `HkPose3D_Device.py`: Python script for edge device operations.
@@ -96,7 +98,7 @@ Set the following parameters in `ThirdPersonController.cs`:
 
 ---
 
-## HkPose3D_Server Project Guide
+## 3. HkPose3D_Server  
 
 ### File Descriptions
 - `HkPose3D_Server.py`: Python script for edge server operations.
@@ -126,12 +128,19 @@ Set the following parameters in `ThirdPersonController.cs`:
 
 ---
 
-## Execution Order
-Tested on **Windows 11**. Execute projects in the following order:
-1. **HkPose3D_Server**
-2. **HkPose3D_Device**
-3. **HkPose3D_Unity**
-4. **HkPose3D_Client**
+## 4. HkPose3D_Client
+
+### File Descriptions
+- `HkPose3D_Client` project and solution files: Open the solution in Visual Studio and execute it.
+
+### How to Run HkPose3D_Client
+- Press **Ctrl+F5** to run.
+- Open a web browser and navigate to:
+  - **https://localhost:8081/** or **http://localhost:8080/**
+- Click the **3D Pose** or **Video Stream** link in the left sidebar to navigate to the respective page.
+- Click **Connect** to view results.
+- If the server's IP or port differs, modify it and press **Connect**.
+- To ensure stability when switching screens, press **Disconnect** before navigating.
 
 ---
 
