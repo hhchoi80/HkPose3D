@@ -1,6 +1,6 @@
-# HkPose3D Project Guide
+# Project Guide
 
-## Project Structure
+## Structure
 
 ![Project Architecture](./images/structure.png)
 
