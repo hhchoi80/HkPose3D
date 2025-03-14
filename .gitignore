@@ -8,3 +8,7 @@ HkPose3D_Unity/Build/
 # Ignore large size files
 HkPose3D_Unity/Library/PackageCache/
 HkPose3D_Unity/Library/Artifacts/
+
+# Korean Files
+doc/
+*docx

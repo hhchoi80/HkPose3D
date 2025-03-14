@@ -1,6 +1,6 @@
 # HkPose3D Project Usage Guide
 
-**Date:** January 16, 2025  
+**Date:** March 14, 2025  
 **Author:** Hyunho Choi, Hankyong National University  
 **Contact:** hhchoi@hknu.ac.kr  
 
@@ -8,6 +8,9 @@
 For detailed explanations, refer to Section 2.2 "Software Structure" in the completion report within the `doc` folder.
 
 ### Project File Structure
+
+![Project Architecture](./images/structure.png)
+
 - `HkPose3D/`: Root directory of the project.
 - `HKPose3D_Unity/`: Captures images from cameras in the Unity virtual environment (Unity project files).
 - `HkPose3D_Client/`: Client operation code (.NET6 project, JavaScript files).
