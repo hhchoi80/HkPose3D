@@ -7,7 +7,7 @@
 (Left) Virtual experimental environment implemented in Unity  
 (Right) Client screen visualizing the 3D human skeleton using WebGL
 
-- Link: https://youtu.be/7HRfl6EmGzI
+Link: https://youtu.be/7HRfl6EmGzI
 
 ---
 
