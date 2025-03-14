@@ -1,8 +1,9 @@
 # Project Guide
 
 ## Demo Video
-[![Video](https://img.youtube.com/vi/7HRfl6EmGzI/0.jpg)](https://www.youtube.com/watch?v=7HRfl6EmGzI&autoplay=1)
+[![Demo Video](https://img.youtube.com/vi/7HRfl6EmGzI/0.jpg)](https://youtu.be/7HRfl6EmGzI)
 
+---
 
 ## Architecture
 ![Project Architecture](./images/structure.png)
