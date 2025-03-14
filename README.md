@@ -1,6 +1,6 @@
 # Project Guide
 
-## Structure
+## Architecture
 
 ![Project Architecture](./images/structure.png)
 
