@@ -1,8 +1,12 @@
 # Project Guide
 
 ## Demo Video
-[![Demo Video](https://img.youtube.com/vi/7HRfl6EmGzI/0.jpg)](https://youtu.be/7HRfl6EmGzI)
-![Demo Video](./images/HkPose3D_Demo.gif)
+<!-- [![Demo Video](https://img.youtube.com/vi/7HRfl6EmGzI/0.jpg)](https://youtu.be/7HRfl6EmGzI) -->
+![Demo Video](./images/demo.gif)
+**Test Video for Cooperative Inference in Real-Time 3D Human Pose Estimation in Multi-Device Edge Networks:**  
+(Left) Virtual experimental environment implemented in Unity  
+(Right) Client screen visualizing the 3D human skeleton using WebGL
+Youtube Link: https://youtu.be/7HRfl6EmGzI
 
 ---
 
