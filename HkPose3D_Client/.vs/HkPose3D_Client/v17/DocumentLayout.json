@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HkPose3D\\HkPose3D_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|c:\\hkpose3d\\hkpose3d_client\\hkpose3d_client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|solutionrelative:hkpose3d_client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|c:\\hkpose3d\\hkpose3d_client\\hkpose3d_client\\pages\\pose3d.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|solutionrelative:hkpose3d_client\\pages\\pose3d.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|c:\\hkpose3d\\hkpose3d_client\\hkpose3d_client\\pages\\stream.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|solutionrelative:hkpose3d_client\\pages\\stream.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|c:\\hkpose3d\\hkpose3d_client\\hkpose3d_client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|solutionrelative:hkpose3d_client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|c:\\hkpose3d\\hkpose3d_client\\hkpose3d_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|solutionrelative:hkpose3d_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|c:\\hkpose3d\\hkpose3d_client\\hkpose3d_client\\wwwroot\\js\\pose3d.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|solutionrelative:hkpose3d_client\\wwwroot\\js\\pose3d.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|c:\\hkpose3d\\hkpose3d_client\\hkpose3d_client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|solutionrelative:hkpose3d_client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|c:\\hkpose3d\\hkpose3d_client\\hkpose3d_client\\wwwroot\\js\\stream.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|solutionrelative:hkpose3d_client\\wwwroot\\js\\stream.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|c:\\hkpose3d\\hkpose3d_client\\hkpose3d_client\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|solutionrelative:hkpose3d_client\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|c:\\hkpose3d\\hkpose3d_client\\hkpose3d_client\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|solutionrelative:hkpose3d_client\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|c:\\hkpose3d\\hkpose3d_client\\hkpose3d_client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|solutionrelative:hkpose3d_client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|c:\\hkpose3d\\hkpose3d_client\\hkpose3d_client\\wwwroot\\js\\messageworker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|solutionrelative:hkpose3d_client\\wwwroot\\js\\messageworker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|c:\\hkpose3d\\hkpose3d_client\\hkpose3d_client\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|solutionrelative:hkpose3d_client\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|c:\\hkpose3d\\hkpose3d_client\\hkpose3d_client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F932FA82-305C-40B7-9490-4823D9B6DBB9}|HkPose3D_Client\\HkPose3D_Client.csproj|solutionrelative:hkpose3d_client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 191,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "HkPose3D_Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Pages\\Index.razor",
+              "RelativeToolTip": "HkPose3D_Client\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T00:41:49.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "HkPose3D_Client\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "HkPose3D_Client\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T00:39:16.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "messageWorker.js",
+              "DocumentMoniker": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\wwwroot\\js\\messageWorker.js",
+              "RelativeDocumentMoniker": "HkPose3D_Client\\wwwroot\\js\\messageWorker.js",
+              "ToolTip": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\wwwroot\\js\\messageWorker.js",
+              "RelativeToolTip": "HkPose3D_Client\\wwwroot\\js\\messageWorker.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-16T00:37:18.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pose3d.js",
+              "DocumentMoniker": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\wwwroot\\js\\pose3d.js",
+              "RelativeDocumentMoniker": "HkPose3D_Client\\wwwroot\\js\\pose3d.js",
+              "ToolTip": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\wwwroot\\js\\pose3d.js",
+              "RelativeToolTip": "HkPose3D_Client\\wwwroot\\js\\pose3d.js",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-16T00:12:27.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "stream.js",
+              "DocumentMoniker": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\wwwroot\\js\\stream.js",
+              "RelativeDocumentMoniker": "HkPose3D_Client\\wwwroot\\js\\stream.js",
+              "ToolTip": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\wwwroot\\js\\stream.js",
+              "RelativeToolTip": "HkPose3D_Client\\wwwroot\\js\\stream.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-15T22:51:43.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "HkPose3D_Client\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "HkPose3D_Client\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T22:43:23.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\App.razor",
+              "RelativeDocumentMoniker": "HkPose3D_Client\\App.razor",
+              "ToolTip": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\App.razor",
+              "RelativeToolTip": "HkPose3D_Client\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T22:42:30.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "HkPose3D_Client\\_Imports.razor",
+              "ToolTip": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\_Imports.razor",
+              "RelativeToolTip": "HkPose3D_Client\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T22:42:25.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "HkPose3D_Client\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "HkPose3D_Client\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T22:37:52.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Program.cs",
+              "RelativeDocumentMoniker": "HkPose3D_Client\\Program.cs",
+              "ToolTip": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Program.cs",
+              "RelativeToolTip": "HkPose3D_Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T22:26:11.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "HkPose3D_Client\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "HkPose3D_Client\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T22:25:39.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HkPose3D_Client\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "HkPose3D_Client\\Pages\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T22:25:32.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stream.razor",
+              "DocumentMoniker": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Pages\\Stream.razor",
+              "RelativeDocumentMoniker": "HkPose3D_Client\\Pages\\Stream.razor",
+              "ToolTip": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Pages\\Stream.razor",
+              "RelativeToolTip": "HkPose3D_Client\\Pages\\Stream.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T22:25:25.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pose3D.razor",
+              "DocumentMoniker": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Pages\\Pose3D.razor",
+              "RelativeDocumentMoniker": "HkPose3D_Client\\Pages\\Pose3D.razor",
+              "ToolTip": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\Pages\\Pose3D.razor",
+              "RelativeToolTip": "HkPose3D_Client\\Pages\\Pose3D.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T22:25:19.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

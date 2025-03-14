@@ -1,0 +1,81 @@
+﻿@page "/stream"
+@inject IJSRuntime JSRuntime
+
+<h4>Video Streaming from Cameras</h4>
+
+<!-- 연결 및 해제 버튼 -->
+<div class="container mt-3">
+    <div class="row align-items-center mb-3">
+        <div class="col-auto d-flex align-items-center">
+            <label for="ipAddress" class="form-label mb-0 me-2">IP:</label>
+            <input type="text" id="ipAddress" class="form-control" placeholder="IP Address" value="127.0.0.1" style="width: 150px;" />
+        </div>
+        <div class="col-auto d-flex align-items-center">
+            <label for="portNumber" class="form-label mb-0 me-2">Port:</label>
+            <input type="number" id="portNumber" class="form-control" placeholder="Port" value="20000" style="width: 100px;" />
+        </div>
+        <div class="col-auto">
+            <button id="connectBtn" class="btn btn-primary me-2" @onclick="ConnectSockets" disabled="@isConnected">Connect</button>
+            <button id="disconnectBtn" class="btn btn-danger" @onclick="CloseSockets" disabled="@(!isConnected)">Disconnect</button>
+        </div>
+    </div>
+</div>
+
+
+<!-- 4개의 canvas를 2x2로 배치 -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <div style="position: relative;">
+        <canvas id="streamCanvas1" style="width: 100%; height: 100%; border: 1px solid black;"></canvas>
+        <div style="position: absolute; top: 10px; left: 10px; font-weight: bold;">Camera 1</div>
+    </div>
+    <div style="position: relative;">
+        <canvas id="streamCanvas2" style="width: 100%; height: 100%; border: 1px solid black;"></canvas>
+        <div style="position: absolute; top: 10px; left: 10px; font-weight: bold;">Camera 2</div>
+    </div>
+    <div style="position: relative;">
+        <canvas id="streamCanvas3" style="width: 100%; height: 100%; border: 1px solid black;"></canvas>
+        <div style="position: absolute; top: 10px; left: 10px; font-weight: bold;">Camera 3</div>
+    </div>
+    <div style="position: relative;">
+        <canvas id="streamCanvas4" style="width: 100%; height: 100%; border: 1px solid black;"></canvas>
+        <div style="position: absolute; top: 10px; left: 10px; font-weight: bold;">Camera 4</div>
+    </div>
+</div>
+
+
+@code {
+    private bool isConnected = false;
+
+    private async Task ConnectSockets()
+    {
+        if (!isConnected)
+        {
+            var ipAddress = await JSRuntime.InvokeAsync<string>("eval", "document.getElementById('ipAddress').value || '127.0.0.1'");
+            var portNumber = await JSRuntime.InvokeAsync<int>("eval", "parseInt(document.getElementById('portNumber').value) || 20000");
+
+            // 각 canvas에 대해 IP 주소와 포트 번호 전달
+            await JSRuntime.InvokeVoidAsync("GetStream", "streamCanvas1", ipAddress, portNumber + 1);
+            await JSRuntime.InvokeVoidAsync("GetStream", "streamCanvas2", ipAddress, portNumber + 2);
+            await JSRuntime.InvokeVoidAsync("GetStream", "streamCanvas3", ipAddress, portNumber + 3);
+            await JSRuntime.InvokeVoidAsync("GetStream", "streamCanvas4", ipAddress, portNumber + 4);
+
+            isConnected = true;
+        }
+    }
+
+    private async Task CloseSockets()
+    {
+        if (isConnected)
+        {
+            // 자바스크립트의 closeSockets 함수를 호출하여 소켓 닫기
+            await JSRuntime.InvokeVoidAsync("closeSockets");
+            isConnected = false;
+        }
+    }
+
+    public async ValueTask DisposeAsync()
+    {
+        // 화면을 나갈 때 소켓을 닫는 함수 호출
+        await CloseSockets();
+    }
+}

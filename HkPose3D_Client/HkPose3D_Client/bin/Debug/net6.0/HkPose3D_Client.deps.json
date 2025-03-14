@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HkPose3D_Client/1.0.0": {
+        "runtime": {
+          "HkPose3D_Client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HkPose3D_Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8oZbwo0G71JcXYGFqZ50ixqtNQBD4GBbRXujUlRlKb2dkU4/dKrmkY19OZNVyiac3cJtFI9tUhaQ0aBeUqAf4w==",
+  "success": true,
+  "projectFilePath": "C:\\HkPose3D\\HkPose3D_Client\\HkPose3D_Client\\HkPose3D_Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hhcho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\hhcho\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\hhcho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\hhcho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

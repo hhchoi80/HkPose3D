@@ -1,0 +1,10 @@
+# Unity Basic Folders
+HkPose3D_Unity/Library/
+HkPose3D_Unity/Temp/
+HkPose3D_Unity/Logs/
+HkPose3D_Unity/obj/
+HkPose3D_Unity/Build/
+
+# Ignore large size files
+HkPose3D_Unity/Library/PackageCache/
+HkPose3D_Unity/Library/Artifacts/

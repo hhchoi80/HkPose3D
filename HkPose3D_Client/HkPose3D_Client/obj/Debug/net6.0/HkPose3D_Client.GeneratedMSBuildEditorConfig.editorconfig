@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HkPose3D_Client
+build_property.RootNamespace = HkPose3D_Client
+build_property.ProjectDir = C:\HkPose3D\HkPose3D_Client\HkPose3D_Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\HkPose3D\HkPose3D_Client\HkPose3D_Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/HkPose3D/HkPose3D_Client/HkPose3D_Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HkPose3D/HkPose3D_Client/HkPose3D_Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HkPose3D/HkPose3D_Client/HkPose3D_Client/Pages/Pose3D.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zZTNELnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HkPose3D/HkPose3D_Client/HkPose3D_Client/Pages/Stream.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyZWFtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HkPose3D/HkPose3D_Client/HkPose3D_Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HkPose3D/HkPose3D_Client/HkPose3D_Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HkPose3D/HkPose3D_Client/HkPose3D_Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jhluvhc37q
+
+[C:/HkPose3D/HkPose3D_Client/HkPose3D_Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-v3jqgcwbiw
+
+[C:/HkPose3D/HkPose3D_Client/HkPose3D_Client/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HkPose3D/HkPose3D_Client/HkPose3D_Client/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/HkPose3D/HkPose3D_Client/HkPose3D_Client/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HkPose3D_Client.props" />
+</Project>
