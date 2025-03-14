@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HkPose3D_Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bab4e1b9a99bea4b8b1a948d60c4b161cbc28f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("HkPose3D_Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HkPose3D_Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
