@@ -11,6 +11,14 @@ https://youtu.be/7HRfl6EmGzI
 
 ---
 
+## Related Publication
+This project is based on the following paper:
+
+**Cooperative Inference for Real-Time 3D Human Pose Estimation in Multi-Device Edge Networks**  
+📄 [arXiv:2504.03052](https://arxiv.org/abs/2504.03052)
+
+---
+
 ## Architecture
 ![Project Architecture](./images/structure.png)
 
